@@ -11,11 +11,11 @@ The IQFs calculated by this code are:
 - Flicker detection index (FDI)
 - Modulation mitigation probability (MMP)
 
-![image](https://github.com/CARpublic/P2020-flicker/assets/141751829/557b8503-e904-41f5-9f38-c83143c3ab02)
+![image](https://github.com/CAR-Public/P2020-flicker/assets/141751829/557b8503-e904-41f5-9f38-c83143c3ab02)
 
-![image](https://github.com/CARpublic/P2020-flicker/assets/141751829/e37be00e-b94a-40b9-9764-a9fa2330874f)
+![image](https://github.com/CAR-Public/P2020-flicker/assets/141751829/e37be00e-b94a-40b9-9764-a9fa2330874f)
 
-![image](https://github.com/CARpublic/P2020-flicker/assets/141751829/d052e87b-e2f1-4675-a147-e72459ba5a1e)
+![image](https://github.com/CAR-Public/P2020-flicker/assets/141751829/d052e87b-e2f1-4675-a147-e72459ba5a1e)
 
 
 ## Getting up and running
